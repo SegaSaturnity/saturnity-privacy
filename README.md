@@ -1,6 +1,4 @@
-# saturnity-privacy
-
-Privacy Policy
+# Privacy Policy
 
 Saturnity Apps logs and keeps no information on you.
 
